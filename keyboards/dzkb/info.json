@@ -1,0 +1,17 @@
+{
+    "keyboard_name": "dzkb", 
+    "url": "", 
+    "maintainer": "qmk", 
+    "width": 3, 
+    "height": 2, 
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"A", "x":0, "y":0}, 
+                {"label":"NUM1", "x":0, "y":1}, 
+                {"label":"H", "x":0, "y":2}, 
+                {"label":"TAB", "x":1, "y":0}, 
+                {"label":"SPC", "x":1, "y":2}]
+        }
+    }
+}
